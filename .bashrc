@@ -42,3 +42,6 @@ alias ll='ls -GAlh' #Long List
 alias h='history'
 alias c='clear'
 alias v='vim'
+alias gr='grep'
+
+
